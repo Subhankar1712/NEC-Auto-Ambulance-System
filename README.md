@@ -19,4 +19,4 @@
 
 ## Auto Driver's Screen
 
-![Auto Driver Screen](https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Auto%20Driver%20Screens/8.%20Payment%20confirmation%20to%20Auto%20driver.png)
+<img src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Auto%20Driver%20Screens/8.%20Payment%20confirmation%20to%20Auto%20driver.png" width="350" height="600" />
