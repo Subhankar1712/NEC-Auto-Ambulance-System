@@ -17,4 +17,6 @@
 
 ![Hospital](https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Hospital's%20Screen/1.%20Confirm%20whether%20Auto%20driver%20Dropped%20Patient%20or%20not.jpeg)
 
+## Auto Driver's Screen
 
+![Auto Driver Screen](https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Auto%20Driver%20Screens/8.%20Payment%20confirmation%20to%20Auto%20driver.png)
