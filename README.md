@@ -8,4 +8,9 @@
 ![Story Boarding](https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Story%20Boarding%20Of%20NEC%20Auto%20Ambulance%20System.PNG)
 
 
+5 Seconds cancellation time if he pressed Emergency Button By Mistake:-
+
+![Wait](https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/1.%20On%20clicking%20Emergency%20waiting%20for%205.PNG)
+
+
 
