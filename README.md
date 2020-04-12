@@ -21,9 +21,7 @@ Patient clicks on the Emergency Button             |  Application search for nea
 
 Auto Driver Get's Notified             |  Direction to the hospital
 :-------------------------:|:-------------------------:
-<img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/1.%20On%20clicking%20Emergency%20waiting%20for%205.PNG"></img> | <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/6.%20Started%20searching%20for%20Auto%20Driver.PNG"></img>
-
-<img src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Auto%20Driver%20Screens/8.%20Payment%20confirmation%20to%20Auto%20driver.png" width="350" height="600" />
+<img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Auto%20Driver%20Screens/8.%20Payment%20confirmation%20to%20Auto%20driver.png"></img> | <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Auto%20Driver%20Screens/5.%20After%20picking%20up%20the%20victim%20showing%20Direction%20towards%20the%20hospital.png"></img>
 
 ## Hospital Screen
 
