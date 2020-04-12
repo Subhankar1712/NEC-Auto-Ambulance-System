@@ -11,9 +11,11 @@ This project was built during NEC Hackathon 2019. We planned to use auto-ricksha
   <img width="900" height="450" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Story%20Boarding%20Of%20NEC%20Auto%20Ambulance%20System.PNG"></img>
 </p>
 
-## 5 Seconds cancellation time if Patient pressed Emergency Button By Mistake:-
+## Patient presses Emergency Button:-
 
-![Wait](https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/1.%20On%20clicking%20Emergency%20waiting%20for%205.PNG)
+Patient clicks on the Emergency Button             |  Application search for nearby Auto Rickshaw
+:-------------------------:|:-------------------------:
+<img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/1.%20On%20clicking%20Emergency%20waiting%20for%205.PNG"></img> | <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/6.%20Started%20searching%20for%20Auto%20Driver.PNG"></img>
 
 
 ## Hospital Screen
