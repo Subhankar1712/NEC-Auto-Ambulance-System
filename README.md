@@ -16,7 +16,7 @@ This project was built during NEC Hackathon 2019. We planned to use auto-ricksha
 ## Victim's Screen:-
 
 
-Ask Help             |  Help is on the way
+Ask for Help             |  Help is on the way
 :-------------------------:|:-------------------------:
 <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/0.%20Ask%20for%20Help.PNG"></img> | <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/8.%20Auto%20Driver%20Accept's%20Request.PNG"></img>
 
