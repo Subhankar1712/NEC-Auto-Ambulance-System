@@ -11,19 +11,19 @@ This project was built during NEC Hackathon 2019. We planned to use auto-ricksha
   <img width="900" height="450" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Story%20Boarding%20Of%20NEC%20Auto%20Ambulance%20System.PNG"></img>
 </p>
 
-## Patient presses Emergency Button:-
+## Victim's Screen:-
 
 Patient clicks on the Emergency Button             |  Application search for nearby Auto Rickshaw
 :-------------------------:|:-------------------------:
 <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/1.%20On%20clicking%20Emergency%20waiting%20for%205.PNG"></img> | <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/6.%20Started%20searching%20for%20Auto%20Driver.PNG"></img>
 
-## Auto Driver's Screen
+## Auto Driver's Screen:-
 
 Auto Driver Get's Notified             |  Direction to the hospital
 :-------------------------:|:-------------------------:
 <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Auto%20Driver%20Screens/8.%20Payment%20confirmation%20to%20Auto%20driver.png"></img> | <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Auto%20Driver%20Screens/5.%20After%20picking%20up%20the%20victim%20showing%20Direction%20towards%20the%20hospital.png"></img>
 
-## Hospital Screen
+## Hospital's Screen:-
 
 ![Hospital](https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Hospital's%20Screen/1.%20Confirm%20whether%20Auto%20driver%20Dropped%20Patient%20or%20not.jpeg)
 
