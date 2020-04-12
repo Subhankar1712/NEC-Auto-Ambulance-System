@@ -15,7 +15,7 @@ This project was built during NEC Hackathon 2019. We planned to use auto-ricksha
 
 Patient clicks on the Emergency Button             |  Application search for nearby Auto Rickshaw
 :-------------------------:|:-------------------------:
-<img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/1.%20On%20clicking%20Emergency%20waiting%20for%205.PNG"></img> | <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/6.%20Started%20searching%20for%20Auto%20Driver.PNG"></img>
+<img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/0.%20Ask%20for%20Help.PNG"></img> | <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/6.%20Started%20searching%20for%20Auto%20Driver.PNG"></img>
 
 ## Auto Driver's Screen:-
 
