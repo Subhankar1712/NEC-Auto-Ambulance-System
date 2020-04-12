@@ -17,7 +17,6 @@ This project was built during NEC Hackathon 2019. We planned to use auto-ricksha
 
 
 Ask Help             |  Help is on the way
-
 :-------------------------:|:-------------------------:
 <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/0.%20Ask%20for%20Help.PNG"></img> | <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Road%20Accident%20victim's%20Screens/8.%20Auto%20Driver%20Accept's%20Request.PNG"></img>
 
@@ -25,7 +24,6 @@ Ask Help             |  Help is on the way
 
 
 Auto Driver Get's Notified             |  Direction to the hospital
-
 :-------------------------:|:-------------------------:
 <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Auto%20Driver%20Screens/1.%20Auto%20driver%20get's%20notification%20and%20click%20on%20link.png"></img> | <img width="400" height="600" src="https://github.com/Akash-goyal-github/NEC-Auto-Ambulance-System/blob/master/Auto%20Driver%20Screens/5.%20After%20picking%20up%20the%20victim%20showing%20Direction%20towards%20the%20hospital.png"></img>
 
